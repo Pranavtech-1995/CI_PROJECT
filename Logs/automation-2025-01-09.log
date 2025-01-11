@@ -1,0 +1,73 @@
+23:10:55:738 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@72976b4: 8 ms
+23:10:55:749 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@e784320: 0 ms
+23:11:50:737 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:12:20:058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:13:41:648 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:14:34:842 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:14:54:505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:15:18:874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:15:42:642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:17:11:916 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:24:21:097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:27:31:594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:35:14:211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:35:14:899 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - ***********
+23:35:23:745 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **********start*********
+23:35:25:191 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **************end****************
+23:35:28:808 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **********start*********
+23:35:29:987 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **************end****************
+23:35:41:079 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **********start*********
+23:35:41:937 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **************end****************
+23:38:52:928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+23:38:53:451 [main] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - ***********
+23:39:01:184 [main] INFO  Testcases.TC004Survey_Creation - ***********
+23:39:14:537 [main] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+23:39:14:555 [main] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+11:07:51:911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+11:07:59:147 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - ***********
+11:08:07:787 [TestNG-tests-1] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - ***********
+11:08:13:812 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+11:08:17:976 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+11:08:32:478 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+11:08:34:480 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+11:08:36:516 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+11:08:45:716 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+11:12:33:401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\testng.xml
+
+11:12:42:917 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+11:12:42:935 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - ***********
+11:12:55:188 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **********start*********
+11:12:56:472 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+11:12:58:279 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **************end****************
+11:13:01:191 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+11:13:03:777 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **********start*********
+11:13:05:384 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **************end****************
+11:13:17:059 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **********start*********
+11:13:18:202 [TestNG-tests-2] INFO  Testcases.TC010Exce_Data_Base_LoginTestCases_Sanity - **************end****************

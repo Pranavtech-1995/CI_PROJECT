@@ -1,0 +1,77 @@
+22:35:06:224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+22:35:07:591 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+22:35:08:992 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+22:40:10:826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+22:40:11:569 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+22:40:11:569 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+22:42:41:364 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+22:42:47:673 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+22:53:29:892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+22:53:32:676 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+22:53:32:676 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+22:56:07:050 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+22:56:12:868 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:00:47:571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+23:00:48:481 [main] INFO  Testcases.TC004Survey_Creation - ***********
+23:02:26:079 [main] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:03:05:224 [main] INFO  Testcases.TC004Survey_Creation - ***********
+23:04:41:281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+23:04:41:916 [main] INFO  Testcases.TC004Survey_Creation - ***********
+23:06:05:546 [main] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+23:06:10:533 [main] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:07:06:305 [main] INFO  Testcases.TC004Survey_Creation - ***********
+23:08:16:810 [main] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:21:31:135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+23:21:31:802 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+23:21:31:802 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+23:23:30:779 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:24:33:065 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+23:24:39:987 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:33:34:326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+23:33:35:140 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+23:33:35:140 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+23:35:33:141 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+23:35:56:750 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+23:36:22:869 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+00:06:02:323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\docker.xml
+
+00:06:02:919 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+00:06:02:919 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+00:08:44:798 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\Grid.xml
+
+00:08:45:391 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+00:08:45:651 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+00:09:04:526 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+00:09:04:526 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+00:11:40:117 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\Grid.xml
+
+00:11:40:754 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+00:11:40:754 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+00:14:38:315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\Grid.xml
+
+00:14:38:877 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - ***********
+00:14:38:877 [TestNG-tests-1] INFO  Testcases.TC004Survey_Creation - ***********
+00:17:22:130 [TestNG-tests-2] INFO  Testcases.TC004Survey_Creation - Welcome, Pranav Prakash
+00:17:23:865 [TestNG-tests-2] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+00:17:40:129 [TestNG-tests-1] INFO  Testcases.TC007Research_Project_Study_Mapping - ***********
+00:19:05:419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Lenovo\eclipse-workspace\CiProject\Grid.xml
+

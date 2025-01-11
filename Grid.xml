@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests" >
+  <groups>
+   <run>
+     <include name="sanity"/>
+   </run>
+ </groups>
+ <listeners>
+ <listener class-name="Utilities.ExtentReport"></listener>
+ </listeners>
+  								
+  
+  <test  name="chromeTest">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="os" value="window"/>
+  <classes>
+      <class name="Testcases.TC004Survey_Creation"/>
+      <class name="Testcases.TC007Research_Project_Study_Mapping"/>
+    </classes>
+  </test> <!-- Test -->
+  <test  name="edgeTest">
+  <parameter name="browser" value="edge"/>
+  <parameter name="os" value="window"/>
+  <classes>
+      <class name="Testcases.TC004Survey_Creation"/>
+      <class name="Testcases.TC007Research_Project_Study_Mapping"/>
+   </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

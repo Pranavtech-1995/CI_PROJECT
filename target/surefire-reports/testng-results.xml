@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-11T12:22:15 IST" name="Suite" finished-at="2025-01-11T12:23:14 IST" duration-ms="58863">
+    <groups>
+      <group name="sanity">
+        <method signature="TC004Survey_Creation.Builder_login()[pri:1, instance:Testcases.TC004Survey_Creation@a5bd950]" name="Builder_login" class="Testcases.TC004Survey_Creation"/>
+        <method signature="TC007Research_Project_Study_Mapping.Research_Login_reg()[pri:1, instance:Testcases.TC007Research_Project_Study_Mapping@16746061]" name="Research_Login_reg" class="Testcases.TC007Research_Project_Study_Mapping"/>
+        <method signature="TC004Survey_Creation.Builder_login()[pri:1, instance:Testcases.TC004Survey_Creation@5f031ebd]" name="Builder_login" class="Testcases.TC004Survey_Creation"/>
+        <method signature="TC007Research_Project_Study_Mapping.Research_Login_reg()[pri:1, instance:Testcases.TC007Research_Project_Study_Mapping@4ee37ca3]" name="Research_Login_reg" class="Testcases.TC007Research_Project_Study_Mapping"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-01-11T12:22:15 IST" name="edgeTest" finished-at="2025-01-11T12:22:47 IST" duration-ms="31997">
+      <class name="Testcases.TC007Research_Project_Study_Mapping">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC007Research_Project_Study_Mapping@4ee37ca3]" started-at="2025-01-11T12:22:32 IST" name="setup" finished-at="2025-01-11T12:22:37 IST" duration-ms="4532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[window]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Research_Login_reg()[pri:1, instance:Testcases.TC007Research_Project_Study_Mapping@4ee37ca3]" started-at="2025-01-11T12:22:37 IST" name="Research_Login_reg" finished-at="2025-01-11T12:22:46 IST" duration-ms="9370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Research_Login_reg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.TC007Research_Project_Study_Mapping@4ee37ca3]" started-at="2025-01-11T12:22:46 IST" name="teardown" finished-at="2025-01-11T12:22:47 IST" duration-ms="1466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.TC007Research_Project_Study_Mapping -->
+      <class name="Testcases.TC004Survey_Creation">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC004Survey_Creation@5f031ebd]" started-at="2025-01-11T12:22:16 IST" name="setup" finished-at="2025-01-11T12:22:22 IST" duration-ms="5583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[window]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Builder_login()[pri:1, instance:Testcases.TC004Survey_Creation@5f031ebd]" started-at="2025-01-11T12:22:22 IST" name="Builder_login" finished-at="2025-01-11T12:22:30 IST" duration-ms="8583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Builder_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.TC004Survey_Creation@5f031ebd]" started-at="2025-01-11T12:22:31 IST" name="teardown" finished-at="2025-01-11T12:22:32 IST" duration-ms="1605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.TC004Survey_Creation -->
+    </test> <!-- edgeTest -->
+    <test started-at="2025-01-11T12:22:15 IST" name="chromeTest" finished-at="2025-01-11T12:23:14 IST" duration-ms="58863">
+      <class name="Testcases.TC007Research_Project_Study_Mapping">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC007Research_Project_Study_Mapping@16746061]" started-at="2025-01-11T12:23:01 IST" name="setup" finished-at="2025-01-11T12:23:05 IST" duration-ms="4279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[window]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Research_Login_reg()[pri:1, instance:Testcases.TC007Research_Project_Study_Mapping@16746061]" started-at="2025-01-11T12:23:05 IST" name="Research_Login_reg" finished-at="2025-01-11T12:23:14 IST" duration-ms="8671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Research_Login_reg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.TC007Research_Project_Study_Mapping@16746061]" started-at="2025-01-11T12:23:14 IST" name="teardown" finished-at="2025-01-11T12:23:14 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.TC007Research_Project_Study_Mapping -->
+      <class name="Testcases.TC004Survey_Creation">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC004Survey_Creation@a5bd950]" started-at="2025-01-11T12:22:16 IST" name="setup" finished-at="2025-01-11T12:22:53 IST" duration-ms="37136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[window]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Builder_login()[pri:1, instance:Testcases.TC004Survey_Creation@a5bd950]" started-at="2025-01-11T12:22:53 IST" name="Builder_login" finished-at="2025-01-11T12:23:01 IST" duration-ms="7187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Builder_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.TC004Survey_Creation@a5bd950]" started-at="2025-01-11T12:23:01 IST" name="teardown" finished-at="2025-01-11T12:23:01 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcases.TC004Survey_Creation -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
